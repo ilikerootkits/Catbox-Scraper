@@ -5,6 +5,6 @@ Fast and multithreaded Catbox.moe scraper that finds files via random IDs and se
 ## Usage
 
 
-python3 scraper.py THREADS [--base_url BASE_URL]
+python3 scrape.py THREADS [--base_url BASE_URL]
 THREADS: Number of concurrent threads.
 --base_url: Base URL (default: https://files.catbox.moe/).
